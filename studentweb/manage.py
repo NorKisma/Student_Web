@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python------------Purpose: Entry point for Django administrative tasks (running server, migrations, shell, etc.)
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
